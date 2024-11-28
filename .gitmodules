@@ -1,4 +1,0 @@
-[submodule ".github/workflows"]
-	path = .github/workflows
-	url = https://github.com/Nemo1166/Waline_Autoupdate.git
-	branch = git-submodule
