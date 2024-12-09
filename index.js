@@ -7,7 +7,7 @@ module.exports = Waline({
         openaiBaseUrl: process.env.OPENAI_BASE_URL,
         openaiModel: process.env.OPENAI_MODEL,
         openaiApiKey: process.env.OPENAI_API_KEY,
-        prompt: process.env.OPENAI_PROMPT,
+        openaiPrompt: process.env.OPENAI_PROMPT,
     })
   ]
 });
