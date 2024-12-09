@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "@waline/vercel": "latest",
-    "waline-plugin-llm-reviewer": "^0.0.2"
+    "waline-plugin-llm-reviewer": "latest"
   }
 }
